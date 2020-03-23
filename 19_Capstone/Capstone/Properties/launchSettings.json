@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Capstone": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
